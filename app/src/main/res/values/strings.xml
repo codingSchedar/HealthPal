@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthPalApp</string>
+    <string name="splash_logo_desc">HealthPal</string>
+    <string name="about_us_message">Greetings in Veritas et Fortitudo! \nWelcome to this application, designed to support the concern of LPU-B students both your mental and physical well-being. You may be wondering, how reliable is the information provided here? Rest assured, we have consulted with medical professionals to ensure that all the guidance and recommendations you will receive are credible and trustworthy. So, there\'s no need to worry, everything shared within this platform has been reviewed and prescribed by experts to help you on your journey to better health.</string>
+    <string name="about_our_application"><u>About our application</u></string>
+
+</resources>
