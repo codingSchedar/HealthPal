@@ -63,7 +63,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/healthpal.git
+git clone https://github.com/codingSchedar/healthpal.git
 Open the Project:
 
 Open Android Studio and import the project directory.
